@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import joblib
+#import joblib
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.metrics import r2_score, confusion_matrix

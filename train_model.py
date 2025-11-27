@@ -9,7 +9,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
 import matplotlib.pyplot as plt
 import seaborn as sns
-import joblib
+#import joblib
 
 # Load and prepare the data
 df = pd.read_csv('vehicle_data.csv')
